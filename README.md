@@ -1,4 +1,5 @@
-<img width="1116" height="242" alt="image" src="https://github.com/user-attachments/assets/b1791b4f-ae53-4cc8-870d-0dd77af998c1" /># Natural Language Processing Assignment
+# Natural Language Processing Assignment
+
 
 ### Task 1 -- Bag of Words construction
 <img width="1114" height="569" alt="image" src="https://github.com/user-attachments/assets/3904dabb-2892-49ac-a5d0-e967791c7a33" />
@@ -14,8 +15,8 @@
 <img width="1116" height="242" alt="image" src="https://github.com/user-attachments/assets/a3b29b11-fa44-473f-b11d-5a33afcdd871" />
 
 
-### Questions & Answers
-##### Question 1
+## Questions & Answers
+#### Question 1
 **answer**: 
 
 
