@@ -16,21 +16,24 @@
 
 
 ## Questions & Answers
-###### **Question 1: Why does the sentence "Dog bites man" have the exact same Bag of Words representation as "Man bites dog"? How does this impact sentiment analysis?**
+###### Question 1:
+**Why does the sentence "Dog bites man" have the exact same Bag of Words representation as "Man bites dog"? How does this impact sentiment analysis?**
 
 
 **answer**: Bag of Words disregards the order of words and focuses only on how often each word appears. Therefore, both “Dog bites man” and “Man bites dog” are represented in exactly the same way: [dog:1, bites:1, man:1].
 
 
 
-###### **Question 2: What happens to the memory size and density of the BoW matrix when the corpus contains 100,000 unique vocabulary words?**
+###### Question 2:
+**What happens to the memory size and density of the BoW matrix when the corpus contains 100,000 unique vocabulary words?**
 
 
 **answer**: If the vocabulary contains 100,000 unique words, the BoW matrix will have 100,000 columns. For N documents, its size becomes:
 > N * 100,000
 
 
-###### **Question 3: Explain why Document 3 in Task 2 receives a Cosine Similarity score of 0.0000 when queried against "machine learning algorithms for data"**
+###### Question 3:
+**Explain why Document 3 in Task 2 receives a Cosine Similarity score of 0.0000 when queried against "machine learning algorithms for data"**
 
 **answer**:
 Document 3 contains the sentence:
