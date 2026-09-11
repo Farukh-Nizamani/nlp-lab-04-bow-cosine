@@ -16,15 +16,15 @@
 
 
 ## Questions & Answers
-#### Question 1
+###### Question 1: Why does the sentence "Dog bites man" have the exact same Bag of Words representation as "Man bites dog"? How does this impact sentiment analysis?
 **answer**: 
 
 
-#### Question 2
+###### Question 2: What happens to the memory size and density of the BoW matrix when the corpus contains 100,000 unique vocabulary words?
 **answer**:
 
 
-#### Question 3
+###### Question 3: Explain why Document 3 in Task 2 receives a Cosine Similarity score of 0.0000 when queried against "machine learning algorithms for data"
 **answer**:
 
 
