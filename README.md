@@ -20,7 +20,7 @@
 **Why does the sentence "Dog bites man" have the exact same Bag of Words representation as "Man bites dog"? How does this impact sentiment analysis?**
 
 
-**answer**: Bag of Words disregards the order of words and focuses only on how often each word appears. Therefore, both “Dog bites man” and “Man bites dog” are represented in exactly the same way: [dog:1, bites:1, man:1].
+**answer**: Bag of Words disregards the order of words and focuses only on how often each word appears. Therefore, both “Dog bites man” and “Man bites dog” are represented in exactly the same way: [dog:1, bites:1, man:1]
 
 
 
